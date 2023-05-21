@@ -15,15 +15,17 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-mobile-first-approach-using-normalizecss-and-sass-MoCgx5TVdg)
+-   Live Site URL: [Vercel](results-summary-component-p6ut6a0ym-jkvithanage.vercel.app)
 
 ## My process
 
 Designed with a mobile first approach using HTML5/SCSS and some JavaScript.
+Parcel used as the build tool.
 
 ### Built with
 
+-   Parcel
 -   Flexbox
 -   Normalize.css
 -   Semantic HTML5 markup
