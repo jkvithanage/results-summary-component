@@ -1,0 +1,73 @@
+.summary-card {
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 1rem;
+    margin-bottom: 1.5rem;
+
+    p {
+        font-size: 1.8rem;
+        font-weight: bold;
+        margin: 0;
+    }
+
+    .summary-card__category {
+        margin-left: 1.5rem;
+    }
+
+    .summary-card__score {
+        color: $dark-gray-blue;
+        span {
+            opacity: 0.6;
+        }
+    }
+}
+
+.summary-card__left {
+    width: 40%;
+    display: flex;
+}
+
+.heading-right {
+    margin-top: 0;
+    margin-bottom: 2rem;
+    color: $dark-gray-blue;
+}
+
+.btn {
+    width: 100%;
+    color: white;
+    background-color: $dark-gray-blue;
+    padding: 1.5rem;
+    border-radius: 4rem;
+    font-size: 2rem;
+    border: none;
+    margin-top: 1.5rem;
+    cursor: pointer;
+
+    &:hover {
+        background: $gradient-bg;
+    }
+}
+
+// Card colors
+.bg-red-10 {
+    color: $light-red;
+    background-color: $light-red-10;
+}
+
+.bg-orange-10 {
+    color: $orange-yellow;
+    background-color: $orange-yellow-10;
+}
+
+.bg-teal-10 {
+    color: $green-teal;
+    background-color: $green-teal-10;
+}
+
+.bg-blue-10 {
+    color: $cobalt-blue;
+    background-color: $cobalt-blue-10;
+}

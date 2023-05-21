@@ -1,0 +1,19 @@
+{
+    "name": "results-summary-component-main",
+    "version": "1.0.0",
+    "description": "![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)",
+    "main": "index.js",
+    "scripts": {
+        "start": "parcel index.html -p 3000"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "normalize.css": "^8.0.1",
+        "parcel": "^2.8.3"
+    },
+    "devDependencies": {
+        "@parcel/transformer-sass": "^2.8.3"
+    }
+}

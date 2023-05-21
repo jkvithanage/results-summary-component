@@ -1,0 +1,42 @@
+.score-circle {
+    width: 15rem;
+    height: 15rem;
+    margin: auto;
+    border-radius: 50%;
+    background: $gradient-circle;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.score {
+    color: white;
+    text-align: center;
+    width: 100%;
+    h1 {
+        font-weight: 700;
+        margin: 0;
+    }
+
+    p {
+        margin: 0;
+        opacity: 0.6;
+    }
+}
+
+.status {
+    h3 {
+        margin-top: 1.5rem;
+    }
+}
+
+.heading-left,
+.score-description {
+    opacity: 0.6;
+}
+
+@media screen and (min-width: 1440px) {
+    .left-pane {
+        border-radius: 3rem;
+    }
+}
