@@ -25,6 +25,7 @@ Designed with a mobile first approach using HTML5/SCSS and some JavaScript.
 ### Built with
 
 -   Flexbox
+-   Normalize.css
 -   Semantic HTML5 markup
 -   Syntactically Awesome Style Sheets
 -   CSS custom properties
@@ -33,4 +34,4 @@ Designed with a mobile first approach using HTML5/SCSS and some JavaScript.
 ## Author
 
 -   Frontend Mentor - [@jkvithanage](https://www.frontendmentor.io/profile/jkvithanage)
--   Twitter - [@yourusername](https://www.twitter.com/jkvithanage)
+-   Twitter - [@jkvithanage](https://www.twitter.com/jkvithanage)
